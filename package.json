@@ -1,5 +1,5 @@
 {
-  "name": "react-vue-turborepo-starter",
+  "name": "primevue3-nuxt3-turborepo",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
