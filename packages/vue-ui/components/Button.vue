@@ -3,15 +3,15 @@
 </template>
 
 <script lang="ts">
-import Vue from "vue";
+// import Vue from "vue";
 import Button from 'primevue/button';
 
-export default Vue.extend({
+export default {
   components: { Button },
   methods: {
     handleClick: () => {
-      alert("Woooha!");
+      alert("Woooha!")
     },
   },
-});
+}
 </script>

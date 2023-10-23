@@ -6,11 +6,10 @@
 </template>
 
 <script lang="ts">
-import Vue from "vue";
 import { Button } from "vue-ui";
 
-export default Vue.extend({
+export default {
   components: { "ui-button": Button },
   name: "IndexPage",
-});
+}
 </script>
